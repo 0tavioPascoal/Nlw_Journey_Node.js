@@ -1,2 +1,2 @@
 # Nlw_Journey_Node.js
-Repositório do NLW JOURNEY da trilha de Node.js de 2024
+Repositório do NLW JOURNEY da trilha de Node.js de 2024 do evento da @Rocketseat
